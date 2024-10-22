@@ -17,4 +17,3 @@
 ### Crea una rama que se llame segunda, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. Entrega el contenido del fichero donde se ha producido el conflicto.
 
 ![segunda](IMG-3/crearsegundaymodificar.PNG)
-
